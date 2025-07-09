@@ -37,9 +37,3 @@ export DB_PASSWORD=your_db_password
 export AWS_S3_SECRET_KEY=your_aws_s3_secret_key
 export AWS_S3_ACCESS_KEY=your_aws_s3_access_key
 ```
-
-## Notes
-
-- Do NOT commit your actual credentials to GitHub.
-- Use the provided `application.properties.example` as a template for configuration.
-- Make sure your environment variables are set in your deployment environment as well.
