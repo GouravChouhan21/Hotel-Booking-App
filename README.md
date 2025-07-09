@@ -31,9 +31,6 @@ This project is a full-stack hotel booking application. It consists of a Java Sp
 ### Login Page
 ![image](https://github.com/user-attachments/assets/b05c6512-83bb-455b-8a6d-9123e2321fef)
 
-### Home Page
-![image](https://github.com/user-attachments/assets/cd1fc07f-2e46-4f8b-ba54-6a6d02ab7566)
-
 ### Admin Dashboard
 ![image](https://github.com/user-attachments/assets/7257865d-82f5-4210-89a3-c92092ec4670)
 ![image](https://github.com/user-attachments/assets/b33373bf-15b7-4fe3-b7ca-3cb4d7b75af7)
